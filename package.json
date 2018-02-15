@@ -1,0 +1,18 @@
+{
+    "name": "13.7_file_system_-_praca_z_plikami",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js",
+        "readFile": "tekst text.txt"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "color": "^3.0.0",
+        "colors": "^1.1.2",
+        "stat-mode": "^0.2.2"
+    }
+}
